@@ -1,2 +1,2 @@
 ## Click Counter
-- A simple click counter WebPage
+- A simple click counter Webpage with HTML and JS
