@@ -1,0 +1,17 @@
+.main {
+    position: absolute;
+    left: 35%;
+    width: 30%;
+    top: 35%;
+    background-color: #e6e6e6;
+    padding: 15px;
+    border-radius: 10px;
+}
+.main div {
+    margin-top: 5px;
+}
+.main p {
+    color: gray;
+    font-size: 14px;
+    margin: 0;
+}
